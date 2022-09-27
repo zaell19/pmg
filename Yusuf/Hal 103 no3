@@ -1,0 +1,10 @@
+<!--file studikasus5-5.html-->
+<html>
+<head>
+<title>Hyperlink</title>
+</head>
+<body>
+<h1>Ini adalah halaman studikasus5-5.html sebagai tujuan link</h1>
+<a href="../studikasus5-4.html">kembali ke studikasus5-4.html</a>
+</body>
+</html>

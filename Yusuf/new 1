@@ -1,0 +1,20 @@
+<html>
+<body background="gabatha.jpg"></body>
+<head>
+<title>Informasi barang dan harga</title>
+</head>
+<body>
+<table width="40%" border="1" cellspacing="0" align="center">
+	<tr>
+		<th>Nama Barang</th>
+		<th>Harga Barang</th>
+	</tr>
+	<tr>
+		<td align="center">REDMI 10S</td>
+		<td align="center">4.000.000</td>
+	</tr>
+</table>
+</body>
+</html>
+
+

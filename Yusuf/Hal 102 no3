@@ -1,0 +1,10 @@
+<!--file studikasus5-2.html-->
+<html>
+<head>
+<title>Membuka Link Halaman Satu Folder</title>
+</head>
+<body>
+<a href=login.html">Klik disini untuk membuka
+login.html</a>
+</body>
+</html>
