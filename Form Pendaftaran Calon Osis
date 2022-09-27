@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>Formulir Pendaftaran Calon Osis</title>
+</head>
+<body>
+<center><h1>Formulir Pendaftaran Calon Osis</h1></center>
+<center><table border="0" width="400">
+    <tr><td>Nama</td>
+           <td>:</td>
+           <td><input type="text" size="25"></td>
+    </tr>
+	 <tr><td>Kelas</td>
+	 <td>:</td>
+	 <td><input type="kelas" size="25"></td>
+    </tr>
+	 <tr><td>No Hp</td>
+	 <td>:</td>
+	 <td><input type="No Hp" size="25"></td>
+    </tr>
+	 <tr><td>Motivasi</td>
+	 <td>:</td>
+	 <td><input type="Motivasi" size="25"></td>
+    </tr>
+	</table>
+	<button>Save</button>
+	<button>Reset</button>
+</body>
+</html>
